@@ -1,6 +1,7 @@
 #### Практическое задание
 
 Навыки: Создание аннотаций, использование javax.validation.*, регулярок, gradle, junit5, ParameterizedTest, TDD
+
 Ограничения: Java 8
 
 1. Создать аннотацию ```@CyrillicConstraint```, которая будет валидировать текстовое поле String в CyrillicDTO (data transfer object),
